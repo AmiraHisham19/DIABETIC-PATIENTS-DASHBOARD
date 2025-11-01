@@ -1,7 +1,8 @@
-# DIABETIC-PATIENTS-DASHBOARD
+# 🩺 Diabetic Patients Dashboard – Excel Analytics Project
+
 ## Overview
 This interactive Excel dashboard presents a comprehensive analysis of diabetic patient data across 38,000+ cases. It integrates clinical metrics, treatment patterns, and hospital distribution to support data-driven decision-making in healthcare environments.
-
+![1](images/1.png)
 ## Purpose
 The dashboard was designed to:
 - Simulate real-world clinical data for exploratory analysis.
@@ -21,7 +22,10 @@ The dashboard was designed to:
 
 ## Visualizations
 A short video walkthrough demonstrates dashboard interactivity, including slicer-driven filtering and real-time chart updates.
-![video](images/video.mp3)
+. [▶️ Watch the demo](images/video.mp4)
+  
+. *This video demonstrates how filters and slicers dynamically update the dashboard visuals.*
+
 
 
 
