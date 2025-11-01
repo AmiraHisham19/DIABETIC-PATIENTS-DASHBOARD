@@ -22,9 +22,13 @@ The dashboard was designed to:
 
 ## Visualizations
 A short video walkthrough demonstrates dashboard interactivity, including slicer-driven filtering and real-time chart updates.
-. [▶️ Watch the demo](images/video.mp4)
+- [▶️ Watch the demo](images/video.mp4)
   
 . *This video demonstrates how filters and slicers dynamically update the dashboard visuals.*
+
+## Author
+Amira Hisham – Pharmacist & Healthcare Data Analyst
+This project is part of my healthcare analytics portfolio. I’m passionate about bridging clinical insight with Machine learning to improve patient outcomes.
 
 
 
